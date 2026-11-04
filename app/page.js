@@ -1,4 +1,4 @@
-import Image from "next/image";
+import { ViewCounter } from "./components/ViewCounter";
 
 export default function Home() {
   return (
@@ -7,6 +7,7 @@ export default function Home() {
         <h1 className="text-5xl font-bold text-foreground">
           Welcome to the <span className="text-accent">Portfolio</span>
         </h1>
+        <ViewCounter />
       </main>
     </div>
   );

@@ -1,5 +1,3 @@
-
-- Site Views
 - Make Images and Heavy js stored on LocalStorage or Cache
 - Interactive System Design of Portfolio
 - Stock Picks and %
