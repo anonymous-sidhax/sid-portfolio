@@ -1,0 +1,23 @@
+
+- Site Views
+- Make Images and Heavy js stored on LocalStorage or Cache
+- Interactive System Design of Portfolio
+- Stock Picks and %
+- Awards, Hackathon Winner, Certifications etc
+- Certifications - AWS, Claude, Anthropic
+- Education/Awards Section - https://pin.it/1IvE2ssVd
+- Education Section - https://yashahire.info/
+- Navbar - https://dribbble.com/shots/26691990-Navbar-UI-UX-design
+- Github Activity Bar - https://www.kroszborg.co/
+- Project Status Board - Uptime etc
+- Performance of Webpage - average time taken to load etc
+- Transition Back to Top from Footer
+- Work Experience Section - https://www.youtube.com/watch?v=0fYi8SGA20k
+- AI ChatBot
+- Waitlist Countdown - https://www.shishirworks.com/#top
+
+
+
+- Portfolio Idea - https://pin.it/2TzwDOtYc
+- Portfolio Idea - https://in.pinterest.com/pin/709105903877923406/
+- Portfolio Idea - https://in.pinterest.com/pin/1017813584542224849/
